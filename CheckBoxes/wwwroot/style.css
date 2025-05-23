@@ -1,0 +1,11 @@
+#checkbox-grid {
+    font-size: 0;
+    line-height: 1;
+    user-select: none;
+}
+#checkbox-grid input[type="checkbox"] {
+    width: 12px;
+    height: 12px;
+    margin: 1px;
+    vertical-align: middle;
+} 
