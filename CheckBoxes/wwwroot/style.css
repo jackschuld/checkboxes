@@ -8,4 +8,23 @@
     height: 12px;
     margin: 1px;
     vertical-align: middle;
+}
+#grid-viewport {
+    width: 800px;
+    height: 600px;
+    overflow: auto;
+    border: 1px solid #ccc;
+    position: relative;
+}
+#checkbox-grid {
+    position: relative;
+    width: 16000px; /* 1000 cols * 16px */
+    height: 16000px; /* 1000 rows * 16px */
+}
+.checkbox {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    margin: 0;
+    padding: 0;
 } 

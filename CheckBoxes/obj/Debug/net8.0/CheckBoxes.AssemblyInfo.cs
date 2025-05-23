@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CheckBoxes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dccedbd5d93ad5ddb3cdeccf99faa600afd19acb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f737fea5bf2c05a4393367ded4ce6610024061e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("CheckBoxes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CheckBoxes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
