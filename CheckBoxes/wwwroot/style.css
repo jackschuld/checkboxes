@@ -10,8 +10,9 @@
     vertical-align: middle;
 }
 #grid-viewport {
-    width: 800px;
-    height: 600px;
+    margin: auto;
+    width: 98vw;
+    height: 98vh;
     overflow: auto;
     border: 1px solid #ccc;
     position: relative;
